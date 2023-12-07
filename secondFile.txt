@@ -6,5 +6,5 @@ Golf
 Nascar
 American Football
 Tennis
-Boxing
-Cycling
+Wrestling
+Road Cycling
