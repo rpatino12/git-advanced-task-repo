@@ -8,3 +8,5 @@ American Football
 Tennis
 Wrestling
 Road Cycling
+MMA
+Track Cycling
