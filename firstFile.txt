@@ -6,5 +6,5 @@ Tacos
 Chicken
 Vanilla Ice cream
 Pancakes
-Pork belly
-French fries
+Bacon
+Donuts
